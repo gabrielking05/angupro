@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": 4300,
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Phone",
+      "price": 42300,
+      "quantity": 6200,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Printer",
+      "price": 430,
+      "quantity": 1600,
+      "selected": false,
+      "available": false
+    },
+    {
+      "name": "Louboutin",
+      "price": 140000,
+      "quantity": 2,
+      "selected": true,
+      "available": true,
+      "id": 4
+    }
+  ]
+}
